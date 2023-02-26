@@ -1,3 +1,4 @@
+![CopyCatLogo](https://raw.githubusercontent.com/boxsoft0/CopyCat/main/src-tauri/icons/128x128.png)
 # CopyCat
 
 CopyCat is a simple text editor with powerful macro features.
